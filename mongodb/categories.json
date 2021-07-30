@@ -1,0 +1,919 @@
+[{
+  "_id": {
+    "$oid": "60f4f63e6e130f342e7f61c2"
+  },
+  "categoryName": "图书、音像、电子书刊",
+  "categoryId": 1,
+  "categoryChild": [
+    {
+      "categoryName": "电子书刊",
+      "categoryId": 1,
+      "categoryChild": [
+        {
+          "categoryName": "婚恋/两性",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "文学",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "经管",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "畅读VIP",
+          "categoryId": 4
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60f4f63f6e130f342e7f61c3"
+  },
+  "categoryName": "手机数码充值",
+  "categoryId": 2,
+  "categoryChild": [
+    {
+      "categoryName": "充值",
+      "categoryId": 1,
+      "categoryChild": [
+        {
+          "categoryName": "联通",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "电信",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "移动",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "境外",
+          "categoryId": 4
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60f4f84d6e130f342e7f61c4"
+  },
+  "categoryName": "服饰内衣",
+  "categoryId": 3,
+  "categoryChild": [
+    {
+      "categoryName": "女装",
+      "categoryId": 1,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "针织衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "雪纺衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "男装",
+      "categoryId": 2,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "POLO衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "羊绒衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "服饰配件",
+      "categoryId": 3,
+      "categoryChild": [
+        {
+          "categoryName": "太阳镜",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "围巾",
+          "categoryId": 2
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60f548d2c05f50ed7908a912"
+  },
+  "categoryName": "服饰内衣2",
+  "categoryId": 4,
+  "categoryChild": [
+    {
+      "categoryName": "女装",
+      "categoryId": 1,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "针织衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "雪纺衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "男装",
+      "categoryId": 2,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "POLO衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "羊绒衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "服饰配件",
+      "categoryId": 3,
+      "categoryChild": [
+        {
+          "categoryName": "太阳镜",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "围巾",
+          "categoryId": 2
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60f548d8c05f50ed7908a913"
+  },
+  "categoryName": "服饰内衣3",
+  "categoryId": 5,
+  "categoryChild": [
+    {
+      "categoryName": "女装",
+      "categoryId": 1,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "针织衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "雪纺衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "男装",
+      "categoryId": 2,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "POLO衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "羊绒衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "服饰配件",
+      "categoryId": 3,
+      "categoryChild": [
+        {
+          "categoryName": "太阳镜",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "围巾",
+          "categoryId": 2
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60f548d9c05f50ed7908a914"
+  },
+  "categoryName": "服饰内衣4",
+  "categoryId": 6,
+  "categoryChild": [
+    {
+      "categoryName": "女装",
+      "categoryId": 1,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "针织衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "雪纺衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "男装",
+      "categoryId": 2,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "POLO衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "羊绒衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "服饰配件",
+      "categoryId": 3,
+      "categoryChild": [
+        {
+          "categoryName": "太阳镜",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "围巾",
+          "categoryId": 2
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60f548dac05f50ed7908a915"
+  },
+  "categoryName": "服饰内衣5",
+  "categoryId": 7,
+  "categoryChild": [
+    {
+      "categoryName": "女装",
+      "categoryId": 1,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "针织衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "雪纺衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "男装",
+      "categoryId": 2,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "POLO衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "羊绒衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "服饰配件",
+      "categoryId": 3,
+      "categoryChild": [
+        {
+          "categoryName": "太阳镜",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "围巾",
+          "categoryId": 2
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60f548dac05f50ed7908a916"
+  },
+  "categoryName": "服饰内衣6",
+  "categoryId": 8,
+  "categoryChild": [
+    {
+      "categoryName": "女装",
+      "categoryId": 1,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "针织衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "雪纺衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "男装",
+      "categoryId": 2,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "POLO衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "羊绒衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "服饰配件",
+      "categoryId": 3,
+      "categoryChild": [
+        {
+          "categoryName": "太阳镜",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "围巾",
+          "categoryId": 2
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60f548dbc05f50ed7908a917"
+  },
+  "categoryName": "服饰内衣7",
+  "categoryId": 9,
+  "categoryChild": [
+    {
+      "categoryName": "女装",
+      "categoryId": 1,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "针织衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "雪纺衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "男装",
+      "categoryId": 2,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "POLO衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "羊绒衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "服饰配件",
+      "categoryId": 3,
+      "categoryChild": [
+        {
+          "categoryName": "太阳镜",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "围巾",
+          "categoryId": 2
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60f548dcc05f50ed7908a918"
+  },
+  "categoryName": "服饰内衣8",
+  "categoryId": 10,
+  "categoryChild": [
+    {
+      "categoryName": "女装",
+      "categoryId": 1,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "针织衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "雪纺衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "男装",
+      "categoryId": 2,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "POLO衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "羊绒衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "服饰配件",
+      "categoryId": 3,
+      "categoryChild": [
+        {
+          "categoryName": "太阳镜",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "围巾",
+          "categoryId": 2
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60f548dcc05f50ed7908a919"
+  },
+  "categoryName": "服饰内衣9",
+  "categoryId": 11,
+  "categoryChild": [
+    {
+      "categoryName": "女装",
+      "categoryId": 1,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "针织衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "雪纺衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "男装",
+      "categoryId": 2,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "POLO衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "羊绒衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "服饰配件",
+      "categoryId": 3,
+      "categoryChild": [
+        {
+          "categoryName": "太阳镜",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "围巾",
+          "categoryId": 2
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60f548ddc05f50ed7908a91a"
+  },
+  "categoryName": "服饰内衣10",
+  "categoryId": 12,
+  "categoryChild": [
+    {
+      "categoryName": "女装",
+      "categoryId": 1,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "针织衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "雪纺衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "男装",
+      "categoryId": 2,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "POLO衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "羊绒衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "服饰配件",
+      "categoryId": 3,
+      "categoryChild": [
+        {
+          "categoryName": "太阳镜",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "围巾",
+          "categoryId": 2
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60f548dec05f50ed7908a91b"
+  },
+  "categoryName": "服饰内衣11",
+  "categoryId": 13,
+  "categoryChild": [
+    {
+      "categoryName": "女装",
+      "categoryId": 1,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "针织衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "雪纺衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "男装",
+      "categoryId": 2,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "POLO衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "羊绒衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "服饰配件",
+      "categoryId": 3,
+      "categoryChild": [
+        {
+          "categoryName": "太阳镜",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "围巾",
+          "categoryId": 2
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60f548dec05f50ed7908a91c"
+  },
+  "categoryName": "服饰内衣12",
+  "categoryId": 14,
+  "categoryChild": [
+    {
+      "categoryName": "女装",
+      "categoryId": 1,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "针织衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "雪纺衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "男装",
+      "categoryId": 2,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "POLO衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "羊绒衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "服饰配件",
+      "categoryId": 3,
+      "categoryChild": [
+        {
+          "categoryName": "太阳镜",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "围巾",
+          "categoryId": 2
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60f548dfc05f50ed7908a91d"
+  },
+  "categoryName": "服饰内衣13",
+  "categoryId": 15,
+  "categoryChild": [
+    {
+      "categoryName": "女装",
+      "categoryId": 1,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "针织衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "雪纺衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "男装",
+      "categoryId": 2,
+      "categoryChild": [
+        {
+          "categoryName": "T恤",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "衬衫",
+          "categoryId": 2
+        },
+        {
+          "categoryName": "POLO衫",
+          "categoryId": 3
+        },
+        {
+          "categoryName": "羊绒衫",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "categoryName": "服饰配件",
+      "categoryId": 3,
+      "categoryChild": [
+        {
+          "categoryName": "太阳镜",
+          "categoryId": 1
+        },
+        {
+          "categoryName": "围巾",
+          "categoryId": 2
+        }
+      ]
+    }
+  ]
+}]

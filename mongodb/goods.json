@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "60fbaa241918eb3dee66727b"
+  },
+  "id": 1,
+  "defaultImg": "/images/mobile01.png",
+  "title": "促销信息，下单即赠送三个月CIBN视频会员卡！【小米电视新品4A 58 火爆预约中】",
+  "price": 6088,
+  "hotScore": 0
+},{
+  "_id": {
+    "$oid": "60fbaaae1918eb3dee66727c"
+  },
+  "id": 2,
+  "defaultImg": "/images/mobile02.png",
+  "title": "促销信息，下单即赠送三个月CIBN视频会员卡！【小米电视新品4A 58 火爆预约中】",
+  "price": 6088,
+  "hotScore": 0
+},{
+  "_id": {
+    "$oid": "60fbaab41918eb3dee66727d"
+  },
+  "id": 3,
+  "defaultImg": "/images/mobile03.png",
+  "title": "促销信息，下单即赠送三个月CIBN视频会员卡！【小米电视新品4A 58 火爆预约中】",
+  "price": 6088,
+  "hotScore": 0
+},{
+  "_id": {
+    "$oid": "60fbaabc1918eb3dee66727e"
+  },
+  "id": 4,
+  "defaultImg": "/images/mobile04.png",
+  "title": "促销信息，下单即赠送三个月CIBN视频会员卡！【小米电视新品4A 58 火爆预约中】",
+  "price": 6088,
+  "hotScore": 0
+},{
+  "_id": {
+    "$oid": "60fbaac21918eb3dee66727f"
+  },
+  "id": 5,
+  "defaultImg": "/images/mobile05.png",
+  "title": "促销信息，下单即赠送三个月CIBN视频会员卡！【小米电视新品4A 58 火爆预约中】",
+  "price": 6088,
+  "hotScore": 0
+},{
+  "_id": {
+    "$oid": "60fbaac91918eb3dee667280"
+  },
+  "id": 6,
+  "defaultImg": "/images/mobile06.png",
+  "title": "促销信息，下单即赠送三个月CIBN视频会员卡！【小米电视新品4A 58 火爆预约中】",
+  "price": 6088,
+  "hotScore": 0
+},{
+  "_id": {
+    "$oid": "60fbaad01918eb3dee667281"
+  },
+  "id": 7,
+  "defaultImg": "/images/mobile01.png",
+  "title": "促销信息，下单即赠送三个月CIBN视频会员卡！【小米电视新品4A 58 火爆预约中】",
+  "price": 6088,
+  "hotScore": 0
+},{
+  "_id": {
+    "$oid": "60fbaae71918eb3dee667282"
+  },
+  "id": 8,
+  "defaultImg": "/images/mobile02.png",
+  "title": "促销信息，下单即赠送三个月CIBN视频会员卡！【小米电视新品4A 58 火爆预约中】",
+  "price": 6088,
+  "hotScore": 0
+},{
+  "_id": {
+    "$oid": "60fbaaed1918eb3dee667283"
+  },
+  "id": 9,
+  "defaultImg": "/images/mobile03.png",
+  "title": "促销信息，下单即赠送三个月CIBN视频会员卡！【小米电视新品4A 58 火爆预约中】",
+  "price": 6088,
+  "hotScore": 0
+},{
+  "_id": {
+    "$oid": "60fbaaf41918eb3dee667284"
+  },
+  "id": 10,
+  "defaultImg": "/images/mobile04.png",
+  "title": "促销信息，下单即赠送三个月CIBN视频会员卡！【小米电视新品4A 58 火爆预约中】",
+  "price": 6088,
+  "hotScore": 0
+}]

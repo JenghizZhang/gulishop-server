@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6100bf5b92a9b966e45a5fd3"
+  },
+  "skuId": "2",
+  "skuNum": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100d1acb65350570447a4ff"
+  },
+  "skuId": "1",
+  "skuNum": 15,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100f0ccd33b44b6a4b85fe5"
+  },
+  "skuId": "3",
+  "skuNum": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100f6ddd33b44b6a4b85ffb"
+  },
+  "skuId": "4",
+  "skuNum": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100f77cd33b44b6a4b86003"
+  },
+  "skuId": "undefined",
+  "skuNum": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100f7add33b44b6a4b8600c"
+  },
+  "skuId": "8",
+  "skuNum": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100f7fbd33b44b6a4b86013"
+  },
+  "skuId": "7",
+  "skuNum": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610108dad430ba8c846c4614"
+  },
+  "skuId": "asd",
+  "skuNum": 2,
+  "__v": 0
+}]
